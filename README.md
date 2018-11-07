@@ -1,2 +1,2 @@
-# RUAP
-faks
+
+ „Moj repozitorij za kolegij RUAP“
